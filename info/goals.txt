@@ -1,0 +1,27 @@
+
+***********************
+	Implemented goals		
+***********************
+
+	I. Visualise the table data in the form of a 3D bar chart, or pie chart, or area chart: YES
+	II. Allow the user to rotate the camera around the displayed 3D graph, zoom in and zoom out: YES
+	III. Allow the user to highlight one particular data (or row of data, in the case of area charts) by
+			clicking with the mouse over it: YES
+
+
+*****************************
+	Note about requirement
+*****************************
+
+	- Datas: hard-coded;
+	- Picking: the "fire's point" is not the corner of the mouse's arrow;
+	- Highlight: is white;
+	- Gui: I couldn't implemented a drop down menu with dat gui,
+				so I used checkboxes;
+
+
+****************
+	Additional
+****************
+
+	- It is possible toggling the highlight, without reload the page;
